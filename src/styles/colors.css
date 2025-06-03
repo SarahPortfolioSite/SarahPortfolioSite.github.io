@@ -1,0 +1,15 @@
+/* Text Colors */
+.text-black     { color: var(--color-black); }
+.text-white     { color: var(--color-white); }
+.text-taupe     { color: var(--color-taupe); }
+.text-slate     { color: var(--color-slate); }
+.text-burgundy  { color: var(--color-burgundy); }
+.text-gold      { color: var(--color-gold); }
+
+/* Background Colors */
+.bg-black       { background-color: var(--color-black); }
+.bg-white       { background-color: var(--color-white); }
+.bg-taupe       { background-color: var(--color-taupe); }
+.bg-slate       { background-color: var(--color-slate); }
+.bg-burgundy    { background-color: var(--color-burgundy); }
+.bg-gold        { background-color: var(--color-gold); }

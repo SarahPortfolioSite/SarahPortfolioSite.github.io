@@ -1,0 +1,13 @@
+:root {
+  /* Colors */
+  --color-black: #1C1C1C;
+  --color-white: #FAF9F6;
+  --color-taupe: #D4BFAA;
+  --color-slate: #4A4A4A;
+  --color-burgundy: #801336;
+  --color-gold: #C9B458;
+
+  /* Fonts */
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Source Sans Pro', sans-serif;
+}
